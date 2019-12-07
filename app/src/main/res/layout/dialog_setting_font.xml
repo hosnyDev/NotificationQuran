@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center_horizontal"
+        android:text="قم بحفظ الحجم المفضل لك"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <com.warkiz.widget.IndicatorSeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:isb_indicator_color="@color/colorPrimaryDark"
+        app:isb_indicator_text_color="@color/white"
+        app:isb_indicator_text_size="18sp"
+        app:isb_max="50"
+        app:isb_min="18"
+        app:isb_only_thumb_draggable="false"
+        app:isb_progress="4"
+        app:isb_seek_smoothly="true"
+        app:isb_show_indicator="rounded_rectangle"
+        app:isb_show_tick_marks_type="oval"
+        app:isb_show_tick_texts="true"
+        app:isb_thumb_color="@color/colorPrimary"
+        app:isb_thumb_size="13dp"
+        app:isb_tick_marks_color="@color/buttonBackground"
+        app:isb_tick_marks_size="13dp"
+        app:isb_tick_texts_color="@color/colorPrimary"
+        app:isb_tick_texts_size="15sp"
+        app:isb_ticks_count="8"
+        app:isb_track_background_color="@color/buttonBackground"
+        app:isb_track_background_size="2dp"
+        app:isb_track_progress_color="@color/colorPrimaryDark"
+        app:isb_track_progress_size="2dp" />
+
+    <TextView
+        android:id="@+id/done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_margin="16dp"
+        android:background="@drawable/shape_button"
+        android:paddingLeft="32dp"
+        android:paddingTop="10dp"
+        android:paddingRight="32dp"
+        android:paddingBottom="10dp"
+        android:text="تم"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

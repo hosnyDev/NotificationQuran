@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppThemeDark" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Material Ripple-->
+    <style name="ripple">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">@color/buttonBackground</item>
+        <item name="mrl_rippleAlpha">0.2</item>
+    </style>
+
+    <!--  alert dialog transparent -->
+    <style name="CustomDialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:screenSize">xlarge</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <!--SwipeBackLayout-->
+    <style name="Theme.Swipe.Back.NoActionBar" parent="AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <!--Search View-->
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="searchHintIcon">@null</item>
+        <item name="queryHint">ابحث باسم السورة</item>
+    </style>
+
+</resources>

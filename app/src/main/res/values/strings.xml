@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">اشعارات القرآن</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="action_notification">notification</string>
+    <string name="action_settings">settings</string>
+
+    <string-array name="time">
+        <item>ربع ساعه</item>
+        <item>نص ساعه</item>
+        <item>ساعه</item>
+        <item>ساعتين</item>
+    </string-array>
+
+</resources>
