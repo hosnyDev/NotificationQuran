@@ -22,7 +22,7 @@ https://play.google.com/store/apps/details?id=com.hosnydev.quran
 # Technologies & third-party integration
 | Name                       | Version          |
 | -------------------------- | ---------------- |
-| JavaVersion                | 8                |
+| [JavaVersion](http://www.google.fr")                | 8                |
 | XML                        | 1.0              |
 | Android Support Library    | androidx 1.1.0   |
 | material design            | 1.1.0            |
