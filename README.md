@@ -23,7 +23,7 @@ https://play.google.com/store/apps/details?id=com.hosnydev.quran
 | Name                       | Version          |
 | -------------------------- | ---------------- |
 | [JavaVersion](http://www.google.fr")                | 8                |
-| XML                        | 1.0              |
+| [XML](http://www.google.fr/ "Named link title")                        | 1.0              |
 | Android Support Library    | androidx 1.1.0   |
 | material design            | 1.1.0            |
 | recyclerview               | 1.1.0            |
