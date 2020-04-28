@@ -13,7 +13,7 @@ NotificationQuran is an open-source App for Android that allows you to Read, and
 https://play.google.com/store/apps/details?id=com.hosnydev.quran
 
 # Screens
-![1](https://user-images.githubusercontent.com/29871113/80438871-835d6800-8905-11ea-950f-b4ccb33e17f7.png)![2](https://user-images.githubusercontent.com/29871113/80438647-f74b4080-8904-11ea-88ee-0732787ab547.png)![3](https://user-images.githubusercontent.com/29871113/80438681-0b8f3d80-8905-11ea-9b74-b7bbda83cb54.png)![4](https://user-images.githubusercontent.com/29871113/80438719-1b0e8680-8905-11ea-88ee-dd90034929de.png)![6](https://user-images.githubusercontent.com/29871113/80438790-514c0600-8905-11ea-9e2f-56e970a6d4e9.png)![7](https://user-images.githubusercontent.com/29871113/80438816-60cb4f00-8905-11ea-9255-fbc95b6902f1.png)![8](https://user-images.githubusercontent.com/29871113/80438861-7b052d00-8905-11ea-82a4-e9c46918bb58.png)
+![1](https://lh3.googleusercontent.com/OSPH7uGjWL6aGE1Wx8bZGEv9jw7tAvP0j0_712Kht3gtFPD-sKZH8A8stMiU4-0aqw=w1093-h508-rw)![2](https://user-images.githubusercontent.com/29871113/80438647-f74b4080-8904-11ea-88ee-0732787ab547.png)![3](https://user-images.githubusercontent.com/29871113/80438681-0b8f3d80-8905-11ea-9b74-b7bbda83cb54.png)![4](https://user-images.githubusercontent.com/29871113/80438719-1b0e8680-8905-11ea-88ee-dd90034929de.png)![6](https://user-images.githubusercontent.com/29871113/80438790-514c0600-8905-11ea-9e2f-56e970a6d4e9.png)![7](https://user-images.githubusercontent.com/29871113/80438816-60cb4f00-8905-11ea-9255-fbc95b6902f1.png)![8](https://user-images.githubusercontent.com/29871113/80438861-7b052d00-8905-11ea-82a4-e9c46918bb58.png)
 
 # Technologies & third-party integration
 | Name                       | Version          |
