@@ -22,16 +22,16 @@ https://play.google.com/store/apps/details?id=com.hosnydev.quran
 # Technologies & third-party integration
 | Name                       | Version          |
 | -------------------------- | ---------------- |
-| [JavaVersion](http://www.google.fr")                | 8                |
-| [XML](http://www.google.fr/ "Named link title")                        | 1.0              |
-| Android Support Library    | androidx 1.1.0   |
-| material design            | 1.1.0            |
-| recyclerview               | 1.1.0            |
-| cardview                   | 1.0.0            |
-| SwipeBackLayout            | 1.0.2            |
-| Material Ripple Layout     | 1.0.2            |
-| jsoup                      | 1.8.3            |
-| IndicatorSeekBar           | 2.1.2            |
-| CircularProgressIndicator  | 1.3.0            |
-| android-gif-drawable       | 1.2.+            |
-| ShortcutBadger             | 1.1.22@aar       | 
+| [JavaVersion](https://developer.android.com/studio/write/java8-support "JavaVersion")                | 8                |
+| [XML](https://developer.android.com/guide/topics/ui/declaring-layout "XML")                        | 1.0              |
+| [Android Support Library](https://developer.android.com/jetpack/androidx/releases/appcompat "Android Support Library")    | androidx 1.1.0   |
+| [Material design ](https://material.io/ "Material design")            | 1.1.0            |
+| [recyclerview ](https://developer.android.com/jetpack/androidx/releases/recyclerview "recyclerview")               | 1.1.0            |
+| [cardview](https://developer.android.com/jetpack/androidx/releases/cardview "cardview")                   | 1.0.0            |
+| [SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout "SwipeBackLayout")            | 1.0.2            |
+| [Material Ripple Layout](https://github.com/balysv/material-ripple "Material Ripple Layout")     | 1.0.2            |
+| [jsoup](https://github.com/jhy/jsoup "jsoup")                      | 1.8.3            |
+| [IndicatorSeekBar](https://github.com/warkiz/IndicatorSeekBar "IndicatorSeekBar")           | 2.1.2            |
+| [CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator "CircularProgressIndicator")  | 1.3.0            |
+| [android-gif-drawable ](https://github.com/koral--/android-gif-drawable "android-gif-drawable ")      | 1.2.+            |
+| [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger/ "ShortcutBadger")             | 1.1.22@aar       | 
