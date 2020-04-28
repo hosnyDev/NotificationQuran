@@ -14,6 +14,7 @@ https://play.google.com/store/apps/details?id=com.hosnydev.quran
 
 # Screens
 ![1](https://lh3.googleusercontent.com/OSPH7uGjWL6aGE1Wx8bZGEv9jw7tAvP0j0_712Kht3gtFPD-sKZH8A8stMiU4-0aqw=w1093-h508-rw) 
+![1](https://lh3.googleusercontent.com/sAcp3O4fhvQ-DbAY-Z-ZoF0nvviGcbuKHp4STmSlILqCUxGfAkcgkzwKAatTdSurqIc=w1093-h508-rw) 
 
 # Technologies & third-party integration
 | Name                       | Version          |
@@ -30,5 +31,4 @@ https://play.google.com/store/apps/details?id=com.hosnydev.quran
 | IndicatorSeekBar           | 2.1.2            |
 | CircularProgressIndicator  | 1.3.0            |
 | android-gif-drawable       | 1.2.+            |
-| ShortcutBadger             | 1.1.22@aar       |
-| -------------------------- | ---------------- |
+| ShortcutBadger             | 1.1.22@aar       | 
