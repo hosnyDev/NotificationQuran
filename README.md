@@ -1,5 +1,5 @@
 # NotificationQuran
-#### NotificationQuran is an open-source App for Android that allows you to Read, and receve notification from Quran. ####
+#### Notification Quran is an open-source App for Android that allows you to Read, and receive notification from Quran. ####
 
 - [x] Requires Android : 4.1 and up
 - [x] Size : 3.6M
